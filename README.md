@@ -1,4 +1,4 @@
-# Valentín Lineiro — Valen
+# Valentín Lineiro
 
 Staff Software Engineer — architecture, AI-assisted engineering, and removing friction from how teams ship.
 
